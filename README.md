@@ -19,4 +19,5 @@ This is a funny game.
 10.遊戲說明畫面
 
 文件中有附上技術文件可以自行參考
+
 因為檔案太大上傳困難所以附上雲端網址：https://drive.google.com/open?id=1h_LKGPKqKbaay2aAZ3pQ518pwqIFAF6H
