@@ -1,5 +1,6 @@
 # game
 This is a funny game.
+About the board game can playing on the computer.
 
 您好,
 這是我在學校修的課所製作的,
